@@ -4,8 +4,8 @@
 #   brew tap v0-visualizer/app https://github.com/V0-Visualizer/V0-Visualizer-App
 #   brew install --cask v0-visualizer
 cask "v0-visualizer" do
-  version "0.8.3"
-  sha256 "d7f546ec472ca69637cd9e677c58bc6a9554b4bea446c86a465eac783b91afa1"
+  version "0.8.4"
+  sha256 "19638b43419bca4854a628e5ce716a61f96d30afbf05ec44eadc62b7ce8cbf16"
 
   url "https://github.com/V0-Visualizer/V0-Visualizer-App/releases/download/v#{version}/V0-Visualizer-#{version}-macOS-arm64.dmg",
       verified: "github.com/V0-Visualizer/V0-Visualizer-App/"
